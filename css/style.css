@@ -10,3 +10,6 @@ nav > ul > li > a{
     font-weight: bold;
 }
 
+.container{
+    margin: 20px;
+}
